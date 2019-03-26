@@ -1,0 +1,7 @@
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\bin\Debug\xmasTreeConsoleCode.exe.config
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\bin\Debug\xmasTreeConsoleCode.exe
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\bin\Debug\xmasTreeConsoleCode.pdb
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\obj\Debug\xmasTreeConsoleCode.exe
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\obj\Debug\xmasTreeConsoleCode.pdb
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\obj\Debug\xmasTreeConsoleCode.csprojAssemblyReference.cache
+D:\0001Documents\Projects Visual Studio\Console\xmasTreeConsoleCode\xmasTreeConsoleCode\obj\Debug\xmasTreeConsoleCode.csproj.CoreCompileInputs.cache
